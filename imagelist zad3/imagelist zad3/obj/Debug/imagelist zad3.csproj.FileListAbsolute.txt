@@ -1,0 +1,10 @@
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\bin\Debug\imagelist zad3.exe.config
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\bin\Debug\imagelist zad3.exe
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\bin\Debug\imagelist zad3.pdb
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\obj\Debug\imagelist zad3.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\obj\Debug\imagelist_zad3.Form1.resources
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\obj\Debug\imagelist_zad3.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\obj\Debug\imagelist zad3.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\obj\Debug\imagelist zad3.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\obj\Debug\imagelist zad3.exe
+C:\Users\toni-PC\source\repos\imagelist zad3\imagelist zad3\obj\Debug\imagelist zad3.pdb
